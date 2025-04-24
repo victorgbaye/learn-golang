@@ -14,6 +14,8 @@ func TestAdder(t *testing.T){
 	}
 }
 
+
+// Example functions help with accessibility of your cod by creating examples
 func ExampleAdd() {
 	sum := Add(1, 5)
 	fmt.Println(sum)
